@@ -35,9 +35,6 @@ Traditional methods often fail due to:
 
 # 🔗 System Architecture  
 
-<p align="center">
-  <img src="system_architecture.png" width="600" alt="System Architecture Diagram"/>
-</p>  
 
 **Workflow**:  
 1. **CoinAPI** → extracts crypto trading pairs (ETH/BTC, ADA/USDT, etc.)  
